@@ -1,0 +1,18 @@
+portfolio/
+│
+├── index.html
+│
+└── images/
+    ├── profile.jpg
+    │
+    ├── nrf-1.jpg
+    ├── nrf-2.jpg
+    ├── nrf-3.jpg
+    │
+    ├── cs-energy-1.jpg
+    ├── cs-energy-2.jpg
+    ├── cs-energy-3.jpg
+    │
+    ├── lab-1.jpg
+    ├── lab-2.jpg
+    └── lab-3.jpg
